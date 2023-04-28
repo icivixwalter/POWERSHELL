@@ -27,7 +27,7 @@ GUIDA_POWER_SHELL
 						@open@terminal@powershell_(apri il terminale con ctr+shif+t)
 						@open@shell@dos_(apri il terminale con ctr+shif+t)
 
-	POWER_SHELL_MICROSOFT
+   POWER_SHELL_MICROSOFT
 		Capitolo 1 - Introduzione a PowerShell
 							https://learn.microsoft.com/it-it/powershell/scripting/learn/ps101/01-getting-started?view=powershell-7.3
 
