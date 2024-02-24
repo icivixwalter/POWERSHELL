@@ -64,12 +64,23 @@
 	"buffers":
 	[
 		{
-			"file": "/c/CASA/LINGUAGGI/POWERSHELL/GUIDA_POWER_SHELL.sublime-project",
+			"file": "GUIDA_POWER_SHELL.sublime-project",
 			"settings":
 			{
-				"buffer_size": 79,
-				"line_ending": "Windows"
-			}
+				"buffer_size": 48,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAwAAAAewoJImZvbGRlcnMiOgoJWwoJCXsKCQkJInBhdGgiOiAiLiIsCgkJfSwKCV0sCn0KAAAAAAAAAAAwAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
 		}
 	],
 	"build_system": "",
@@ -214,7 +225,7 @@
 	},
 	"expanded_folders":
 	[
-		"/c/CASA/LINGUAGGI/POWERSHELL"
+		"/home/valter/CASA/LINGUAGGI/POWERSHELL"
 	],
 	"file_history":
 	[
@@ -349,7 +360,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 26.0
 	},
 	"find_in_files":
 	{
@@ -411,12 +422,12 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/c/CASA/LINGUAGGI/POWERSHELL/GUIDA_POWER_SHELL.sublime-project",
+					"file": "GUIDA_POWER_SHELL.sublime-project",
 					"selected": true,
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 79,
+						"buffer_size": 48,
 						"regions":
 						{
 						},
@@ -446,7 +457,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 26.0
 	},
 	"input":
 	{
@@ -511,7 +522,7 @@
 	"project": "GUIDA_POWER_SHELL.sublime-project",
 	"replace":
 	{
-		"height": 52.8
+		"height": 48.0
 	},
 	"save_all_on_build": true,
 	"select_file":
