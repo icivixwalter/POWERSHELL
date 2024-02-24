@@ -9,7 +9,14 @@ si torova qui c:\CASA\LINGUAGGI\POWERSHELL\
 
 CHIAVE PRIVATA CREATA NEL DIRECTORY E FILE DENOMINATO:
 
-/home/valter/CASA/LINGUAGGI/CHIAVE.pub
+questo file si deve mettere qui:
+
+CHIAVE.pub
+
+/home/valter/CASA/LINGUAGGI/
+
+o in c:\casa\linguaggi\ ...
+
 
 
 
